@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-fs-module",
+  "version": "1.0.0",
+  "description": "fs module can:",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WNortier/nodejs-fs-module.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WNortier/nodejs-fs-module/issues"
+  },
+  "homepage": "https://github.com/WNortier/nodejs-fs-module#readme"
+}
